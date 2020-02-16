@@ -19,13 +19,13 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Chairman"
-  company = "IvLabs"
+  company = "[IvLabs](http://www.ivlabs.in)"
   company_url = "http://www.ivlabs.in/"
   location = "VNIT, Nagpur, India"
   date_start = "2019-07-01"
   date_end = ""
   description = """
-  IvLabs is the Robotics and Innovation Society run by the students of VNIT. I head the council responsible for managing the Society and will be involved in the decision-making process of several initiatives in the tenure of the council. """
+  [IvLabs](http://www.ivlabs.in) is the Robotics and Innovation Society run by the students of VNIT. I head the council responsible for managing the Society and will be involved in the decision-making process of several initiatives in the tenure of the council. """
 
 [[experience]]
   title = "Member"
@@ -43,7 +43,7 @@ date_format = "Jan 2006"
   location = "Moscow, Russia"
   date_start = "2019-07-27"
   date_end = "2019-08-03"
-  description = """Represented India in an eight-day delegation in Russia. The main aim of the delegation was to promote mutual understanding of values and culture and develop international relations."""
+  description = """Represented India in an eight-day delegation in Russia. The main aim of the delegation was to promote mutual understanding of values and culture and develop international relations. [[certificate link]](https://drive.google.com/open?id=17w9hyuT01iTAhV6snYDLq5-QTQK7FSQj)"""
 
 [[experience]]
   title = "Volunteer"
