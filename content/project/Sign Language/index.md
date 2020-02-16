@@ -11,4 +11,5 @@ date: "2019-04-01"
 image:
   caption: Photo by Khush Agrawal
   focal_point: Smart
+
 ---
