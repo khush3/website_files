@@ -21,7 +21,24 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
 
+  [[content.filter_button]]
+    name = "All"
+    tag = "*"
+
+  [[content.filter_button]]
+    name = "Reinforcement Learning"
+    tag = "Reinforcement Learning"
+
+  [[content.filter_button]]
+    name = "Deep Learning"
+    tag = "Deep Learning"
+
+  [[content.filter_button]]
+    name = "Electronics"
+    tag = "Electronics"
+
   # [[content.filter_button]]
+
   #   name = "All"
   #   tag = "*"
 

@@ -1,19 +1,34 @@
 ---
 title: Harmonic Motion Analyzer
-summary: An example of linking directly to an external project website using `external_link`.
+summary: MATLAB program to analyze motion of a target object.
+
 tags:
-- Mobile Robotics
-- Robotics
-- Embedded Systems
-date: "2018-05-01T02018-05-05Z"
+- Computer Vision
+- Image Processing
+date: "2018-05-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://github.com/khush3/HarmonicMotionAnalyser
+#external_link: 
 
 image:
-  caption: Photo by Khush Agrawal
+  caption: Sample Result
   focal_point: Smart
+
+links:
+- icon: github
+  icon_pack: fab
+  name: Complete Project
+  url: https://github.com/khush3/HarmonicMotionAnalyser
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
 ---
 
-A video is selected to analyze its motion. Proper color threshold is set to identify the object and its centroid location is obtained. Every coordinate of the centroid is stored and later its extremum are calculated. All values are stored then in a csv file. Using elementary mathematics and retrieved data,an equation of motion is calculated.
-**this project was made for TechnoSeason, 2017 and was awarded first prize.*
+•Aimed at estimation equation of motion of a target-object video is selected to analyze its motion. \
+•Aimed at retrieving data associated with the motion of tareget-object using  elementary mathematics. \
+*This project was made for TechnoSeason, 2017 and was awarded first prize.*
+
+## Abstract
+Simple harmonic motion can serve as a mathematical model for a variety of motions, such as the oscillation of a spring. With the aim of learning computer vision and MATLAB, I worked on analyzing the motion of a target-object undergoing a damped harmonic motion. The target-object was separated from the background using color thresholding and estimated as a point object. Coordinates of this point were recorded and used to estimate the parameters associated with the mathematical model of the system like maximum displacement, mean position, the velocity at different time instants. A mathematical model was estimated by fitting a curve to the recorded data using MATLAB Curve Fitting Toolbox.  
+
