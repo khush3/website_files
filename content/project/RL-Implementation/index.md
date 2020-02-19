@@ -30,3 +30,21 @@ url_video: ""
 - [x] Vanilla Policy Gradient
 - [x] PPO
 - [ ] DDPG
+
+## Results
+##### Value and Policy Iteration
+![](https://media.giphy.com/media/L05KQuhnujAW3QyIkG/giphy.gif)
+
+|      Method      | Deterministic Frozen Lake | Stochastic Frozen Lake |
+| :--------------: | :-----------------------: | :--------------------: |
+| Value Iteration  |             7             |           8            |
+| Policy Iteration |             7             |           3            |
+
+  
+
+##### Q-Learning
+![](https://media.giphy.com/media/KyAYvfmKlabE1zC820/giphy.gif)
+
+
+##### Deep Q-Learning
+![](https://media.giphy.com/media/PlsqPhHU7KnB2AdmYa/giphy.gif)

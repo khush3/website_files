@@ -8,5 +8,8 @@ featured = true
 publication = "*International Journal of Semantic Computing*"
 doi = "10.1142/S1793351X1940021X"
 url_pdf = "https://www.worldscientific.com/doi/abs/10.1142/S1793351X1940021X"
+url_video = 'https://www.youtube.com/playlist?list=PLflR-cYaxOGFrR4ejMU8Mt5ZF5mPCZNmv'
+
+
 +++
 

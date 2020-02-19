@@ -30,10 +30,6 @@ subtitle = ""
     tag = "Reinforcement Learning"
 
   [[content.filter_button]]
-    name = "Deep Learning"
-    tag = "Deep Learning"
-
-  [[content.filter_button]]
     name = "Electronics"
     tag = "Electronics"
 
