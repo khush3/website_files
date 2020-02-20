@@ -10,6 +10,9 @@ doi = "10.1142/S1793351X1940021X"
 url_pdf = "https://www.worldscientific.com/doi/abs/10.1142/S1793351X1940021X"
 url_video = 'https://www.youtube.com/playlist?list=PLflR-cYaxOGFrR4ejMU8Mt5ZF5mPCZNmv'
 
-
 +++
-
+### Results
+#### Key frames as seen through robot's eyes
+![](https://user-images.githubusercontent.com/34411770/74923820-77ca5e00-53f7-11ea-98e8-fc5c1d169025.png)
+#### Predicted Actions
+![](https://user-images.githubusercontent.com/34411770/74923881-89ac0100-53f7-11ea-9f8b-030d230c99db.png)

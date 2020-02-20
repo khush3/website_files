@@ -25,14 +25,15 @@ url_slides: ""
 url_video: ""
 ---
 
-•Implementated: 
+### Implementated: 
+
 - [x] DQN
 - [x] Vanilla Policy Gradient
 - [x] PPO
 - [ ] DDPG
 
-## Results
-##### Value and Policy Iteration
+### Results
+#### Value and Policy Iteration
 ![](https://media.giphy.com/media/L05KQuhnujAW3QyIkG/giphy.gif)
 
 |      Method      | Deterministic Frozen Lake | Stochastic Frozen Lake |
@@ -42,9 +43,9 @@ url_video: ""
 
   
 
-##### Q-Learning
+#### Q-Learning
 ![](https://media.giphy.com/media/KyAYvfmKlabE1zC820/giphy.gif)
 
 
-##### Deep Q-Learning
+#### Deep Q-Learning
 ![](https://media.giphy.com/media/PlsqPhHU7KnB2AdmYa/giphy.gif)

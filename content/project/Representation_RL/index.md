@@ -28,5 +28,5 @@ url_video: ""
 ---
 •Aimed at using representation learning to boost the training speed of Deep Q-Learning Algorithm.
 
-## Abstract
+### Abstract
 Learning directly from higher dimensional data like video stream is known to be a difficult problem to tackle in Reinforcement Learning. Learning directly from higher dimensional data can also be very time consuming. Representation learning can be used in such cases to leverage lower dimensional trained agents. The two-stage agent can be further be fine-tuned to adapt better.
