@@ -70,7 +70,7 @@ user_groups:
 - Visitors
 ---
 
-My interest lies in Machine Learning and Electronics, particularly in its application to Robotics. I look forward to developing Robotic-Systems that tightly couple Cognition and Electronics. I have worked on Machine Learning for a while now, and have developed a keen interest in Reinforcement Learning. 
+My interest lies in Reinforcement Learning, particularly in its application to Robotics. I have worked on Machine Learning for a while now, and have developed an ardent interest in Reinforcement Learning. 
 
 In my sophomore year, I started to work under [Dr. Shital Chiddarwar](http://mec.vnit.ac.in/people/sschiddarwar/) in [IvLabs](http://www.ivlabs.in/) and took various challenges that involved the application of Deep Learning and Reinforcement Learning. 
 

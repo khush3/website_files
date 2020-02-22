@@ -17,7 +17,7 @@ image:
 links:
 - icon: github
   icon_pack: fab
-  name: Complete Project
+  name: GitHub
   url: https://github.com/khush3/HarmonicMotionAnalyser
 url_code: ""
 url_pdf: ""

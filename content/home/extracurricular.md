@@ -52,6 +52,6 @@ date_format = "Jan 2006"
   location = "VNIT, Nagpur, India"
   date_start = "2018-07-27"
   date_end = ""
-  description = """Organized Basic Electronics, Circuit and PCB Designing andMicro-Controllers workshops. Promoted Technical culture in my institute."""
+  description = """Organized Basic Electronics, Circuit and PCB Designing and Micro-Controllers workshops. Promoted Technical culture in my institute."""
 
 +++

@@ -13,6 +13,8 @@ publication = "International Conference on Advances in Mechanical Engineering"
 
 url_video = 'https://www.youtube.com/watch?v=XnrbU1050ls'
 
+url_code = 'https://github.com/khush3/person_following_bot'
+
 +++
 ### Results
 ![](https://media.giphy.com/media/idROzgggHzMfqJTNPy/giphy.gif)

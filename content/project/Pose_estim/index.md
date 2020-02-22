@@ -19,7 +19,7 @@ image:
 links:
 - icon: github
   icon_pack: fab
-  name: Complete Project
+  name: GitHub
   url: http://www.ivlabs.in/mobile-robot.html
 url_code: ""
 url_pdf: ""
