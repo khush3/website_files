@@ -58,6 +58,26 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
 
+[[item]]
+  organization = "UCL"
+  organization_url = "https://www.ucl.ac.uk/"
+  title = "Reinforcement Learning"
+  url = "http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html"
+  certificate_url = ""
+  date_start = "2019-06-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Stanford"
+  organization_url = "https://www.stanford.edu/"
+  title = "CS234: Reinforcement Learning"
+  url = "http://web.stanford.edu/class/cs234/index.htmll"
+  certificate_url = ""
+  date_start = "2019-06-01"
+  date_end = ""
+  description = ""
+
 
 
 +++
