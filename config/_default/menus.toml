@@ -19,8 +19,8 @@
   weight = 30
 
 [[main]]
-  name = "Misc"
-  url = "#courses"
+  name = "Extracurricular"
+  url = "#extracurricular"
   weight = 40
 
 [[main]]

@@ -24,7 +24,8 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
-
+### Abstract
+To broaden my perspective on Machine Learning, I took up Reinforcement Learning courses by David Silver, Stanford CS234. To understand the nuances in the field, I implemented basic algorithms. The inspiration for the same was also drawn through [a project](https://khush3.github.io/publication/stair_climbing/) where the idea of using Imitation Learning to overcome several limitations, struck me.
 ### Implementated: 
 
 - [x] DQN

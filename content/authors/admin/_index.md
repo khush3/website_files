@@ -76,4 +76,4 @@ In my sophomore year, I started to work under [Dr. Shital Chiddarwar](http://mec
 
 I'm always up to something! [Here's](https://khush3.github.io/project/experience-transfer/) what's keeping me occupied these days.
 
-Besides research, I enjoy music and spending time in nature.
+Besides research, I enjoy listening to music, playing guitar and spending time in nature.

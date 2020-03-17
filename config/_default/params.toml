@@ -44,7 +44,7 @@ local_business_type = ""
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
+description = "Khush Agrawal aims at becoming a full-stack roboticist. To know more about him, visit the website"
 
 ############################
 ## Site Features
@@ -86,14 +86,14 @@ phone = "+91 98340 93303"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Ambazari Road", city = "Nagpur", region = "MH", postcode = "440010", country = "India", country_code = "IN"}
+address = {street = "IvLabs, Seminar Hall 41, 4th floor, New Academic Block, VNIT", city = "Nagpur", region = "MH", postcode = "440010", country = "India", country_code = "IN"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "21.126007", longitude = "79.046863"}
-
+coordinates = {latitude = "21.123699", longitude = "79.049002"}
+ 
 # Directions for visitors to locate you.
-#directions = ""
+#directions = "IvLabs, Seminar Hall 41, 4th Floor, New Academic Block, VNIT"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
@@ -150,7 +150,7 @@ section_pager = false
 docs_section_pager = true  # Display pager in Docs layout (e.g. tutorials)?
 
 # Enable in-built social sharing buttons? (true/false)
-sharing = true
+sharing = false
 
 # Link authors to their profile page? (true/false)
 link_authors = true
@@ -256,8 +256,8 @@ plugins_js  = []
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  engine = 2
-  api_key = ""
+  engine = 1
+  api_key = "AIzaSyD2DTHAVHaSYmt4rU7UW7NCbKcVOsKB6do"
   zoom = 15
 
 ############################
