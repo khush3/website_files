@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2019-07-01"
   date_end = ""
   description = """
-  [IvLabs](http://www.ivlabs.in) is the Robotics and Innovation Society run by the students of VNIT. I head the council responsible for managing the Society and will be involved in the decision-making process of several initiatives in the tenure of the council. """
+  [IvLabs](http://www.ivlabs.in) is the Robotics and Innovation Society run by the students of VNIT. I head the council responsible for managing the Society and I am involved in the decision-making process of several initiatives during the tenure of the council. """
 
 [[experience]]
   title = "Member"
@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   location = "VNIT, Nagpur, India"
   date_start = "2018-05-01"
   date_end = "2019-07-01"
-  description = """I was actively involved in promoting technical culture in my institute and conducted several workshops for the freshmen."""
+  description = """I was actively involved in promoting technical culture in my institute and conducted technical competition for the freshmen."""
 
 [[experience]]
   title = "Delegate"
@@ -52,6 +52,6 @@ date_format = "Jan 2006"
   location = "VNIT, Nagpur, India"
   date_start = "2018-07-27"
   date_end = ""
-  description = """Organized Basic Electronics, Circuit and PCB Designing and Micro-Controllers workshops. Promoted Technical culture in my institute."""
+  description = """Organized Basic Electronics, Circuit and PCB Designing and Micro-Controllers workshops. I am also responsible for promoting Technical culture in my institute."""
 
 +++

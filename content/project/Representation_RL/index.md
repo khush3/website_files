@@ -1,5 +1,5 @@
 ---
-title: Representation Learning to bost Deep Q-Learning
+title: Representation Learning to boost Deep Q-Learning
 summary: Framework to train agent using representation learning.
 
 tags:
