@@ -2,7 +2,7 @@
 # Experience widget.
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = 0  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "News"
@@ -21,10 +21,10 @@ date_format = "Jan 2006"
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
 +++
-- [April 2020] Sadly due to the COVID-19 outbreak, the RISS internship moved to remote operation. 
+- [Apr. 2020] Sadly due to the COVID-19 outbreak, the RISS Program  moved to remote operation. 
 
-- [March 2020] Accepted for the [RISS Program](https://riss.ri.cmu.edu/) at Carnegie Mellon University. Excited to work with [Prof. David Held](https://www.ri.cmu.edu/ri-faculty/david-held/), [Thomas Weng](https://thomasweng.com/) and the team!
+- [Mar. 2020] Accepted for the [RISS Program](https://riss.ri.cmu.edu/) at Carnegie Mellon University. Excited to work with [Prof. David Held](https://www.ri.cmu.edu/ri-faculty/david-held/), [Thomas Weng](https://thomasweng.com/) and the team!
   
-- [September 2019] Paper accepted for oral presentation at the [International Conference on Advances in Mechanical Engineering](http://vnit.ac.in/icame-2020/)!
+- [Sep. 2019] Paper accepted for oral presentation at the [International Conference on Advances in Mechanical Engineering](http://vnit.ac.in/icame-2020/)!
 
-- [August 2019] Paper accepted for publication in the [International Journal of Semantic Computing](https://www.worldscientific.com/worldscinet/ijsc) !
+- [Aug. 2019] Paper accepted for publication in the [International Journal of Semantic Computing](https://www.worldscientific.com/worldscinet/ijsc) !
