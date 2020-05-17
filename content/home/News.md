@@ -21,10 +21,11 @@ date_format = "Jan 2006"
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
 +++
-- [Apr. 2020] Sadly due to the COVID-19 outbreak, the RISS Program  moved to remote operation. 
 
-- [Mar. 2020] Accepted for the [RISS Program](https://riss.ri.cmu.edu/) at Carnegie Mellon University. Excited to work with [Prof. David Held](https://www.ri.cmu.edu/ri-faculty/david-held/), [Thomas Weng](https://thomasweng.com/) and the team!
+- [Mar. 2020] Accepted for the [RISS Program](https://riss.ri.cmu.edu/) at Carnegie Mellon University. Excited to work with [Prof. David Held,](https://www.ri.cmu.edu/ri-faculty/david-held/) [Thomas Weng](https://thomasweng.com/) and the team!
   
-- [Sep. 2019] Paper accepted for oral presentation at the [International Conference on Advances in Mechanical Engineering](http://vnit.ac.in/icame-2020/)!
+- [Sep. 2019] Paper accepted for oral presentation at the [International Conference on Advances in Mechanical Engineering!](http://vnit.ac.in/icame-2020/)
 
-- [Aug. 2019] Paper accepted for publication in the [International Journal of Semantic Computing](https://www.worldscientific.com/worldscinet/ijsc) !
+- [Aug. 2019] Paper accepted for publication in the [International Journal of Semantic Computing!](https://www.worldscientific.com/worldscinet/ijsc)
+- [Jul. 2019] Represented India at the Youth Deligation Program in Russia!
+
