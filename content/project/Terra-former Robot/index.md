@@ -6,6 +6,7 @@ tags:
 - Electronics
 - Embedded Systems
 - Mobile Robotics
+- Self
 
 date: "2019-06-01T00:00:00Z"
 

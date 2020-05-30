@@ -5,6 +5,7 @@ summary: MATLAB program to analyze motion of a target object.
 tags:
 - Computer Vision
 - Image Processing
+- Self
 date: "2018-05-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

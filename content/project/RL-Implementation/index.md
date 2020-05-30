@@ -1,10 +1,11 @@
 ---
-title: Basics of Reinforcement Learning
+title: Implementation of RL Algorithms 
 summary: Implementation of basic reinforcement learning algorithms.
 
 tags:
 - Reinforcement Learning
 - Deep Learning
+- Self
 date: "2019-06-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

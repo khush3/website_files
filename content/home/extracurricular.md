@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   location = "VNIT, Nagpur, India"
   date_start = "2018-05-01"
   date_end = "2019-07-01"
-  description = """I was actively involved in promoting technical culture in my institute and conducted technical competition for the freshmen."""
+  description = """I was actively involved in promoting technical culture in my institute and conducted technical competition for the freshmen. [[Pictures]](https://photos.app.goo.gl/mnbcByK96y1VPs5W9)"""
 
 [[experience]]
   title = "Delegate"
@@ -43,7 +43,7 @@ date_format = "Jan 2006"
   location = "Moscow, Russia"
   date_start = "2019-07-27"
   date_end = "2019-08-03"
-  description = """Represented India in an eight-day delegation in Russia. The main aim of the delegation was to promote mutual understanding of values and culture and develop international relations. [[certificate link]](https://drive.google.com/open?id=17w9hyuT01iTAhV6snYDLq5-QTQK7FSQj)"""
+  description = """Represented India in an eight-day delegation in Russia. The main aim of the delegation was to promote mutual understanding of values and culture and develop international relations. [[Certificate]](https://drive.google.com/open?id=17w9hyuT01iTAhV6snYDLq5-QTQK7FSQj) [[Pictures]](https://photos.app.goo.gl/v2c18sX7Ydzdneen8)"""
 
 [[experience]]
   title = "Volunteer"
@@ -52,6 +52,6 @@ date_format = "Jan 2006"
   location = "VNIT, Nagpur, India"
   date_start = "2018-07-27"
   date_end = ""
-  description = """Organized Basic Electronics, Circuit and PCB Designing and Micro-Controllers workshops. I am also responsible for promoting Technical culture in my institute."""
+  description = """Organized Basic Electronics, Circuit and PCB Designing and Micro-Controllers workshops. I am also responsible for promoting Technical culture in my institute. [[Pictures]](https://photos.app.goo.gl/V9cCW43W2YS6XzNY6)"""
 
 +++

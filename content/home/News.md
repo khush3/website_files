@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   columns = "2"
 +++
 
-- [Mar. 2020] Accepted for the [RISS Program](https://riss.ri.cmu.edu/) at Carnegie Mellon University. Excited to work with [Prof. David Held,](https://www.ri.cmu.edu/ri-faculty/david-held/) [Thomas Weng](https://thomasweng.com/) and the team!
+- [Mar. 2020] Accepted for the [RISS Program](https://riss.ri.cmu.edu/) at Carnegie Mellon University. Excited to work with [Dr. David Held,](https://www.ri.cmu.edu/ri-faculty/david-held/) [Thomas Weng](https://thomasweng.com/) and the team!
   
 - [Sep. 2019] Paper accepted for oral presentation at the [International Conference on Advances in Mechanical Engineering!](http://vnit.ac.in/icame-2020/)
 

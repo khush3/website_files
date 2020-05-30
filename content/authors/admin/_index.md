@@ -74,6 +74,4 @@ My interest lies in Reinforcement Learning, particularly in its application to R
 
 In my sophomore year, I started to work under [Dr. Shital Chiddarwar](http://mec.vnit.ac.in/people/sschiddarwar/) in [IvLabs](http://www.ivlabs.in/) and took various challenges that involved the application of Deep Learning and Reinforcement Learning. 
 
-I'm always up to something! [Here's](https://khush3.github.io/project/experience-transfer/) what's keeping me occupied these days.
-
 Besides research, I enjoy listening to music, playing guitar and spending time in nature.

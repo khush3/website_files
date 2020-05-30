@@ -23,7 +23,7 @@ subtitle = ""
 
   [[content.filter_button]]
     name = "All"
-    tag = "*"
+    tag = "Self"
 
   [[content.filter_button]]
     name = "Reinforcement Learning"
@@ -32,6 +32,12 @@ subtitle = ""
   [[content.filter_button]]
     name = "Electronics"
     tag = "Electronics"
+
+  [[content.filter_button]]
+    name = "Mentorship"
+    tag = "Mentorship"
+
+  # 
 
   # [[content.filter_button]]
 

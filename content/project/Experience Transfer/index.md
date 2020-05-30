@@ -5,6 +5,7 @@ summary: Framework to teach higher-dim student using experiences of a teacher.
 tags:
 - Reinforcement Learning
 - Deep Learning
+- Self
 date: "2020-01-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

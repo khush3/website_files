@@ -1,11 +1,12 @@
 ---
-title: Localization of a differential drive robot
+title: 2-Dimensional Localization
 summary: Algorithm and Hardware for 2-D pose estimation.
 
 tags:
 - Electronics
 - Embedded Systems
 - Mobile Robotics
+- Self
 
 date: "2018-05-01T00:00:00Z"
 

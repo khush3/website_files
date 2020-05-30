@@ -5,6 +5,7 @@ summary: Wearable device to aid speech-impaired people.
 tags:
 - Electronics
 - Embedded Systems
+- Self
 date: "2019-04-01"
 
 # Optional external URL for project (replaces project detail page).
