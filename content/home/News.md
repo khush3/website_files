@@ -22,6 +22,8 @@ date_format = "Jan 2006"
   columns = "2"
 +++
 
+- [Aug. 2020] Bagged the first position at the [Smart India Hackathon](https://www.sih.gov.in/) 2020, for developing an automated security and surveillance solution!
+
 - [Mar. 2020] Accepted for the [RISS Program](https://riss.ri.cmu.edu/) at Carnegie Mellon University. Excited to work with [Dr. David Held,](https://www.ri.cmu.edu/ri-faculty/david-held/) [Thomas Weng](https://thomasweng.com/) and the team!
   
 - [Sep. 2019] Paper accepted for oral presentation at the [International Conference on Advances in Mechanical Engineering!](http://vnit.ac.in/icame-2020/)
