@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Junior Year Undergraduate Student
+role: Senior Year Undergraduate Student
 
 # Organizations/Affiliations
 organizations:
@@ -70,8 +70,10 @@ user_groups:
 - Visitors
 ---
 
-My interest lies in Reinforcement Learning, particularly in its application to Robotics. I have worked on Machine Learning for a while now, and have developed an ardent interest in Reinforcement Learning. 
+I am interested in working at the intersection of Machine Learning and Robotics. I have mainly worked on developing Reinforcement Learning and Deep Learning based algorithms to build some cool Robots. 
 
 In my sophomore year, I started to work under [Dr. Shital Chiddarwar](http://mec.vnit.ac.in/people/sschiddarwar/) in [IvLabs](http://www.ivlabs.in/) and took various challenges that involved the application of Deep Learning and Reinforcement Learning. 
+
+I spent the summer of 2020 working in [Dr. David Held\'s](https://www.ri.cmu.edu/ri-faculty/david-held/) [R-PAD Lab](https://r-pad.github.io/) at the Carnegie Mellon University as a part of the Robotics Institute Summer Scholar's Program remotely. 
 
 Besides research, I enjoy listening to music, playing guitar and spending time in nature.

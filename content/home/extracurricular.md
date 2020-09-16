@@ -25,9 +25,8 @@ date_format = "Jan 2006"
   date_start = "2019-07-01"
   date_end = ""
   description = """
-- [IvLabs](http://www.ivlabs.in) is the Robotics and Innovation Society run by the students of VNIT. [[Pictures]](https://photos.app.goo.gl/mnbcByK96y1VPs5W9)
+- IvLabs is the Robotics and Innovation Society run by the students of VNIT. [[Pictures]](https://photos.app.goo.gl/mnbcByK96y1VPs5W9)
 - Led the council responsible for managing the Society and I am involved in the decision-making process of several initiatives during the tenure of the council. """
-
 
 [[experience]]
   title = "Delegate"
@@ -37,6 +36,7 @@ date_format = "Jan 2006"
   date_start = "2019-07-27"
   date_end = "2019-08-03"
   description = """
+
 - Aimed  at promoting mutual understanding of science, values, and culture and develop international relations. [[Certificate]](https://drive.google.com/open?id=17w9hyuT01iTAhV6snYDLq5-QTQK7FSQj) [[Pictures]](https://photos.app.goo.gl/v2c18sX7Ydzdneen8)
 - Represented India in an eight-day delegation in Russia."""
 
