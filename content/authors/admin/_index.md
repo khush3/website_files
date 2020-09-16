@@ -74,6 +74,6 @@ I am interested in working at the intersection of Machine Learning and Robotics.
 
 In my sophomore year, I started to work under [Dr. Shital Chiddarwar](http://mec.vnit.ac.in/people/sschiddarwar/) in [IvLabs](http://www.ivlabs.in/) and took various challenges that involved the application of Deep Learning and Reinforcement Learning. 
 
-I spent the summer of 2020 working in [Dr. David Held\'s](https://www.ri.cmu.edu/ri-faculty/david-held/) [R-PAD Lab](https://r-pad.github.io/) at the Carnegie Mellon University as a part of the Robotics Institute Summer Scholar's Program remotely. 
+I spent the summer of 2020 working in [Dr. David Held\'s](https://www.ri.cmu.edu/ri-faculty/david-held/) [R-PAD Lab](https://r-pad.github.io/) at Carnegie Mellon University as a part of the Robotics Institute Summer Scholar's Program remotely. 
 
 Besides research, I enjoy listening to music, playing guitar and spending time in nature.
