@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Year Undergraduate Student
+role: Research Intern
 
 # Organizations/Affiliations
 organizations:
-- name: Visvesvaraya National Institute of Technology
-  url: "http://vnit.ac.in/"
+- name: Biorobotics Lab, CMU
+  url: "http://biorobotics.ri.cmu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Reinforcement Learning
+bio: Roboticist.
 
 
 interests:
@@ -70,10 +70,12 @@ user_groups:
 - Visitors
 ---
 
-I am interested in working at the intersection of Machine Learning and Robotics. I have mainly worked on developing Reinforcement Learning and Deep Learning based algorithms to build some cool Robots. 
+I am interested in working at the intersection of machine learning and robotics. 
 
-In my sophomore year, I started to work under [Dr. Shital Chiddarwar](http://mec.vnit.ac.in/people/sschiddarwar/) in [IvLabs](http://www.ivlabs.in/) and took various challenges that involved the application of Deep Learning and Reinforcement Learning. 
+Presently, I am working at [Prof Howie Choset\'s](https://www.ri.cmu.edu/ri-faculty/howie-choset/) [Biorobotics Lab](http://biorobotics.ri.cmu.edu/) on efficient distributed learning. 
+
+During my undergraduate studies, I spent time working at [Dr. Shital Chiddarwar\'s](http://mec.vnit.ac.in/people/sschiddarwar/) [IvLabs](http://www.ivlabs.in/) addressing challenges in the application of deep learning and reinforcement learning to robotics. 
 
 I spent the summer of 2020 working in [Dr. David Held\'s](https://www.ri.cmu.edu/ri-faculty/david-held/) [R-PAD Lab](https://r-pad.github.io/) at Carnegie Mellon University as a part of the Robotics Institute Summer Scholar's Program remotely. 
 
-Besides research, I enjoy listening to music, playing guitar and spending time in nature.
+Besides research, I enjoy listening to music, playing guitar, and spending time in nature.

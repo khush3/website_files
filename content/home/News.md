@@ -21,6 +21,9 @@ date_format = "Jan 2006"
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
 +++
+- [Nov. 2021] Paper - [FabricFlowNet: Bimanual Cloth Manipulation with a Flow-based Policy](https://openreview.net/forum?id=TsqkJJMgHkk/) accepted to CoRL!
+
+- [Aug. 2021] Started working with the brilliant team @ [Biorobotics Lab, CMU!](http://biorobotics.ri.cmu.edu/)
 
 - [Aug. 2020] Bagged the first position at the [Smart India Hackathon](https://www.sih.gov.in/) 2020, for developing an automated security and surveillance solution!
 

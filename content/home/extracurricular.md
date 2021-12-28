@@ -25,8 +25,8 @@ date_format = "Jan 2006"
   date_start = "2019-07-01"
   date_end = ""
   description = """
-- IvLabs is the Robotics and Innovation Society run by the students of VNIT. [[Pictures]](https://photos.app.goo.gl/mnbcByK96y1VPs5W9)
-- Led the council responsible for managing the Society and I am involved in the decision-making process of several initiatives during the tenure of the council. """
+- Led the council responsible for managing the technical society and decision-making for its improvement. 
+- Organized open house to facilitate exchange of information across the institute. [[Pictures]](https://photos.app.goo.gl/mnbcByK96y1VPs5W9)"""
 
 [[experience]]
   title = "Delegate"
@@ -36,9 +36,8 @@ date_format = "Jan 2006"
   date_start = "2019-07-27"
   date_end = "2019-08-03"
   description = """
-
-- Aimed  at promoting mutual understanding of science, values, and culture and develop international relations. [[Certificate]](https://drive.google.com/open?id=17w9hyuT01iTAhV6snYDLq5-QTQK7FSQj) [[Pictures]](https://photos.app.goo.gl/v2c18sX7Ydzdneen8)
-- Represented India in an eight-day delegation in Russia."""
+- Represented India in a delegation in Russia.
+- Aimed to promote mutual understanding of science, culture, and sports and develop international relations. [[Certificate]](https://drive.google.com/open?id=17w9hyuT01iTAhV6snYDLq5-QTQK7FSQj) [[Pictures]](https://photos.app.goo.gl/v2c18sX7Ydzdneen8)"""
 
 [[experience]]
   title = "Convener and Volunteer"
@@ -48,7 +47,7 @@ date_format = "Jan 2006"
   date_start = "2018-07-27"
   date_end = ""
   description = """
-- Organized Basic Electronics, Circuit and PCB Designing and Micro-Controllers workshops.
-- Promoted Technical culture in my institute. [[Pictures]](https://photos.app.goo.gl/V9cCW43W2YS6XzNY6)"""
+- Organized basic electronics, circuit and PCB designing, and micro-controller programming workshops. [[Pictures]](https://photos.app.goo.gl/V9cCW43W2YS6XzNY6)
+- Facilitated the growth of technical culture at my institution."""
 
 +++
