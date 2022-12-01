@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Intern
+role: Research Associate
 
 # Organizations/Affiliations
 organizations:
@@ -22,8 +22,8 @@ bio: Roboticist.
 
 
 interests:
-- Robotics
 - Reinforcement Learning
+- Robotics
 - Deep Learning
 - Embedded Systems
 
@@ -70,11 +70,11 @@ user_groups:
 - Visitors
 ---
 
-I am interested in working at the intersection of machine learning and robotics. 
+I am interested in working at the intersection of machine learning (ML) and robotics. 
 
-Presently, I am working at [Prof Howie Choset\'s](https://www.ri.cmu.edu/ri-faculty/howie-choset/) [Biorobotics Lab](http://biorobotics.ri.cmu.edu/) on efficient distributed learning. 
+Presently, I am working at [Prof Howie Choset\'s](https://www.ri.cmu.edu/ri-faculty/howie-choset/) [Biorobotics Lab](http://biorobotics.ri.cmu.edu/)  on two directions in reinforcement learning (RL). The former is skill learning - an intersection of model-based and model-free RL in a hierarchical / options setup. The latter involves developing exploration strategies for learning robot locomotion policies.
 
-During my undergraduate studies, I spent time working at [Dr. Shital Chiddarwar\'s](http://mec.vnit.ac.in/people/sschiddarwar/) [IvLabs](http://www.ivlabs.in/) addressing challenges in the application of deep learning and reinforcement learning to robotics. 
+During my undergrad, I spent time working at [Dr. Shital Chiddarwar\'s](http://mec.vnit.ac.in/people/sschiddarwar/) [IvLabs](http://www.ivlabs.in/), addressing challenges in the application of ML to robotics. 
 
 I spent the summer of 2020 working in [Dr. David Held\'s](https://www.ri.cmu.edu/ri-faculty/david-held/) [R-PAD Lab](https://r-pad.github.io/) at Carnegie Mellon University as a part of the Robotics Institute Summer Scholar's Program remotely. 
 
