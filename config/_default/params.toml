@@ -58,7 +58,7 @@ highlight_languages = ["r"]  # Add support for highlighting additional languages
 
 # Enable LaTeX math rendering? true/false
 #   If false, you can enable math on a per page basis as needed.
-math = false
+math = true
 
 # Enable diagram rendering? true/false
 #   If false, you can enable diagrams on a per page basis as needed.
@@ -81,7 +81,7 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "mailto:agrawalkhush2000@gmail.com"
+email = "mailto:khusha@cs.cmu.edu"
 phone = ""
 
 # Address
@@ -91,7 +91,7 @@ phone = ""
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 coordinates = {latitude = "21.123699", longitude = "79.049002"}
- 
+
 # Directions for visitors to locate you.
 #directions = "IvLabs, Seminar Hall 41, 4th Floor, New Academic Block, VNIT"
 

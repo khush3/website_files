@@ -1,18 +1,18 @@
 ---
-title: Implementation of RL Algorithms 
+title: Implementation of RL Algorithms
 summary: Implementation of basic reinforcement learning algorithms.
 
 tags:
-- Reinforcement Learning
-- Deep Learning
-- Self
+- Reinforcement learning
+- Deep learning
+
 date: "2019-06-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-#external_link: 
+#external_link:
 
 image:
-  caption: Picture from Reinforcement Learning - An Introduction
+  caption: Q-learning for solving block world
   focal_point: Smart
 
 links:
@@ -25,10 +25,11 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
-### Abstract
-To broaden my perspective on Machine Learning, I took up Reinforcement Learning courses by David Silver, Stanford CS234. To understand the nuances in the field, I implemented basic algorithms. The inspiration for the same was also drawn through [a project](https://khush3.github.io/publication/stair_climbing/) where the idea of using Imitation Learning to overcome several limitations, struck me.
-### Implementated: 
 
+### Abstract
+Working on the [autonomous stair-climbing robot](https://khush3.github.io/publication/stair_climbing/) highlighted the limitations of behavior cloning. This realization motivated me to study reinforcement learning. Following are some of the results of my implementation of basic reinforcement learning algorithms form scratch using PyTorch, NumPy, and OpenCV.
+
+### Implementated:
 - [x] DQN
 - [x] Vanilla Policy Gradient
 - [x] PPO
@@ -43,11 +44,10 @@ To broaden my perspective on Machine Learning, I took up Reinforcement Learning 
 | Value Iteration  |             7             |           8            |
 | Policy Iteration |             7             |           3            |
 
-  
+
 
 #### Q-Learning
 ![](https://media.giphy.com/media/KyAYvfmKlabE1zC820/giphy.gif)
-
 
 #### Deep Q-Learning
 ![](https://media.giphy.com/media/PlsqPhHU7KnB2AdmYa/giphy.gif)

@@ -1,8 +1,11 @@
 ---
 title: Basics of Reinforcement Learning
 summary: Mentored 5 sophomores for their first project in Reinforcement Learning.
+
 tags:
-- Mentorship
+- Machine learning
+- Reinforcement learning
+
 date: "2019-06-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

@@ -21,14 +21,16 @@ date_format = "Jan 2006"
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
 +++
+- [Mar. 2023] Accepted my offer to join the MS Robotic Systems Development (MRSD) program at CMU!
+
 - [Nov. 2021] Paper - [FabricFlowNet: Bimanual Cloth Manipulation with a Flow-based Policy](https://openreview.net/forum?id=TsqkJJMgHkk/) accepted to CoRL!
 
-- [Aug. 2021] Started working with the brilliant team @ [Biorobotics Lab, CMU!](http://biorobotics.ri.cmu.edu/)
+- [Aug. 2021] Started working at the [Biorobotics Lab, CMU!](http://biorobotics.ri.cmu.edu/)
 
 - [Aug. 2020] Bagged the first position at the [Smart India Hackathon](https://www.sih.gov.in/) 2020, for developing an automated security and surveillance solution!
 
-- [Mar. 2020] Accepted for the [RISS Program](https://riss.ri.cmu.edu/) at Carnegie Mellon University. Excited to work with [Dr. David Held,](https://www.ri.cmu.edu/ri-faculty/david-held/) [Thomas Weng](https://thomasweng.com/) and the team!
-  
+- [Mar. 2020] Accepted for the [RISS Program](https://riss.ri.cmu.edu/) at CMU. Excited to work with [Dr. David Held,](https://www.ri.cmu.edu/ri-faculty/david-held/) [Thomas Weng](https://thomasweng.com/) and the team!
+
 - [Sep. 2019] Paper accepted for oral presentation at the [International Conference on Advances in Mechanical Engineering!](http://vnit.ac.in/icame-2020/)
 
 - [Aug. 2019] Paper accepted for publication in the [International Journal of Semantic Computing!](https://www.worldscientific.com/worldscinet/ijsc)
