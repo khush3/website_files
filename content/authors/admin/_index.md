@@ -30,7 +30,7 @@ education:
   courses:
   - course: M.S. in Robotic Systems Development
     institution: Carnegie Mellon University
-    year: 2023-2024
+    year: 2023-2025
   - course: B.Tech in Electronics and Communication Engineering
     institution: Visvesvaraya National Institute of Technology
     year: 2017-2021
