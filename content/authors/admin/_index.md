@@ -72,11 +72,11 @@ user_groups:
 - Visitors
 ---
 
-I am a graduate student at the Robotics Institute, Carnegie Mellon University (CMU). I am interested in working at the intersection of machine learning (ML) and robotics.
+I am a graduate student at the Robotics Institute, Carnegie Mellon University (CMU) working with professor [Aviral Kumar](https://aviralkumar2907.github.io) on offline reinforcement learning. I am interested in working at the intersection of machine learning (ML) and robotics.
 
 <!-- I worked as a Research Associate at [Prof Howie Choset\'s](https://www.ri.cmu.edu/ri-faculty/howie-choset/) [Biorobotics Lab](http://biorobotics.ri.cmu.edu/) on two directions in reinforcement learning (RL). The former is skill learning - an intersection of model-based and model-free RL in a hierarchical / options setup. The latter involves developing exploration strategies for learning robot locomotion policies.
  -->
 
-Before joining CMU, I worked as a Research Associate at [Prof Howie Choset\'s](http://www.cs.cmu.edu/~choset/) Biorobotics Lab on [skill learning](./project/skill-learning) and [snake robots.](./project/snake-robot) During my undergrad, I spent time working at [Dr. Shital Chiddarwar\'s](http://mec.vnit.ac.in/people/sschiddarwar/) [IvLabs,](http://www.ivlabs.in/) building a [stair climbing](./publication/stair_climbing) robot and an [assistive](./publication/person_follower) robot. I spent the summer of 2020 working in [Dr. David Held\'s](https://www.ri.cmu.edu/ri-faculty/david-held/) [R-PAD Lab](https://r-pad.github.io/) as a part of the Robotics Institute Summer Scholar's Program remotely.
+Previously, I worked as a research associate at professor [Howie Choset's](http://www.cs.cmu.edu/~choset/) Biorobotics Lab on [skill learning](./project/skill-learning) and [snake robots.](./project/snake-robot) During my undergrad, I spent time working at professor [Shital Chiddarwar's](http://mec.vnit.ac.in/people/sschiddarwar/) [IvLabs,](http://www.ivlabs.in/) building a [stair climbing](./publication/stair_climbing) robot and an [assistive](./publication/person_follower) robot. I spent the summer of 2020 working in professor [David Held's](https://www.ri.cmu.edu/ri-faculty/david-held/) [R-PAD Lab](https://r-pad.github.io/) as a part of the Robotics Institute Summer Scholars program remotely.
 
-Besides research, I enjoy music, biking, and spending time in nature.
+Beyond research, I find joy in music, running, biking, and spending time outdoors.

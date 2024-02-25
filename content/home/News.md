@@ -21,6 +21,8 @@ date_format = "Jan 2006"
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
 +++
+- [Jan. 2024] Started working with professor [Aviral Kumar](https://aviralkumar2907.github.io) on offline reinforcement learning!
+- [Nov. 2023] Joining [AIM Intelligent Machines](https://aim.vision) as an ML / robotics intern during summer 2024!
 - [Mar. 2023] Accepted my offer to join the MS Robotic Systems Development (MRSD) program at CMU!
 
 - [Nov. 2021] Paper - [FabricFlowNet: Bimanual Cloth Manipulation with a Flow-based Policy](https://openreview.net/forum?id=TsqkJJMgHkk/) accepted to CoRL!
@@ -29,7 +31,7 @@ date_format = "Jan 2006"
 
 - [Aug. 2020] Bagged the first position at the [Smart India Hackathon](https://www.sih.gov.in/) 2020, for developing an automated security and surveillance solution!
 
-- [Mar. 2020] Accepted for the [RISS Program](https://riss.ri.cmu.edu/) at CMU. Excited to work with [Dr. David Held,](https://www.ri.cmu.edu/ri-faculty/david-held/) [Thomas Weng](https://thomasweng.com/) and the team!
+- [Mar. 2020] Joining the [RISS Program](https://riss.ri.cmu.edu/) at CMU. Excited to work with professor [David Held,](https://www.ri.cmu.edu/ri-faculty/david-held/) [Thomas Weng](https://thomasweng.com/) and the team!
 
 - [Sep. 2019] Paper accepted for oral presentation at the [International Conference on Advances in Mechanical Engineering!](http://vnit.ac.in/icame-2020/)
 
